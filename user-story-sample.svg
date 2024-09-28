@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+  <rect x="10" y="10" width="480" height="280" fill="#f0f0f0" stroke="#000000" stroke-width="2"/>
+  <text x="250" y="40" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="bold">ユーザーストーリー</text>
+  
+  <rect x="30" y="60" width="140" height="60" fill="#ff9999" stroke="#000000" stroke-width="2"/>
+  <text x="100" y="95" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">誰が</text>
+  
+  <rect x="180" y="60" width="140" height="60" fill="#99ff99" stroke="#000000" stroke-width="2"/>
+  <text x="250" y="95" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">何を</text>
+  
+  <rect x="330" y="60" width="140" height="60" fill="#9999ff" stroke="#000000" stroke-width="2"/>
+  <text x="400" y="95" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">なぜ</text>
+  
+  <path d="M100,120 L100,160 L400,160 L400,120" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <rect x="30" y="160" width="440" height="100" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <text x="250" y="190" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" font-style="italic">
+    [役割] として、
+  </text>
+  <text x="250" y="220" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" font-style="italic">
+    [行動や機能] を行いたい。
+  </text>
+  <text x="250" y="250" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" font-style="italic">
+    なぜなら [理由や利益] だからだ。
+  </text>
+</svg>
